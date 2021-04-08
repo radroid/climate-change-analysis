@@ -114,5 +114,4 @@ dmypy.json
 .pyre/
 
 # Manually added
-data/
 data-1205-climate-change.zip
